@@ -27,7 +27,7 @@
 
 ---
 
-## À Propos
+## À Propos de moi
 
 Étudiant en Master Sécurité IT et Big Data (SITBD) à la Faculté des Sciences et Techniques de Tanger, Université Abdelmalek Essaâdi. Titulaire d'une Licence en Data Analytics de la même institution, avec un intérêt particulier pour l'intersection entre la sécurité défensive et l'ingénierie des données.
 
