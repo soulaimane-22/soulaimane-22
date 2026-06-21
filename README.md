@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- ANIMATED BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d2137&height=220&section=header&text=Soulaimane%20Benayad&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=IT%20Security%20•%20Big%20Data%20•%20Systèmes%20Distribués&descAlignY=58&descSize=18&descColor=65DDEF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d2137&height=220&section=header&text=Soulaimane%20Benayad&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Security%20•%20IT%20•%20Cloud%20•%20Big%20Data&descAlignY=58&descSize=18&descColor=8b949e" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Master+SITBD+%E2%80%94+FST+Tanger;Ing%C3%A9nieur+Cybers%C3%A9curit%C3%A9+%2B+Big+Data;Kafka+%7C+Spark+%7C+Snort+%7C+OpenVPN;Joueur+CTF+%E2%80%94+%C3%89quipe+ANTISITBD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Cybersecurity+SOC+SIEM+Cloud)](https://git.io/typing-svg)
 
 </div>
 
@@ -19,9 +19,9 @@
 ![Statut](https://img.shields.io/badge/Statut-M1_Master_SITBD-58a6ff?style=for-the-badge&labelColor=0d1117)
 ![Localisation](https://img.shields.io/badge/📍-Tanger%2C_Maroc-8b949e?style=for-the-badge&labelColor=0d1117)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connecter-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connecter-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soulaimane-benayad-33363a26b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![GitHub](https://img.shields.io/badge/GitHub-soulaimane--22-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/soulaimane-22)
-[![Email](https://img.shields.io/badge/Email-Me_Contacter-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
+[![Email](https://img.shields.io/badge/Email-Me_Contacter-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:solaimanbenayad@gmail.com)
 
 </div>
 
@@ -179,8 +179,8 @@ Ce semestre, je travaille sur des modules couvrant la **Big Data Security & Priv
 
 ## Contact
 
-[![Email](https://img.shields.io/badge/Email-Me_Contacter-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connecter-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![Email](https://img.shields.io/badge/Email-Me_Contacter-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:solaimanbenayad@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connecter-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soulaimane-benayad-33363a26b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![GitHub](https://img.shields.io/badge/GitHub-soulaimane--22-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/soulaimane-22)
 
 <br/>
