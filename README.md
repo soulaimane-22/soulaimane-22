@@ -16,7 +16,7 @@
 <div align="center">
 
 ![Ouvert à](https://img.shields.io/badge/🟢_Ouvert_à-Stage_PFA-1f6feb?style=for-the-badge&labelColor=0d1117)
-![Statut](https://img.shields.io/badge/Statut-M1_Master_SITBD-58a6ff?style=for-the-badge&labelColor=0d1117)
+![Statut](https://img.shields.io/badge/Statut-M2_Master_SITBD-58a6ff?style=for-the-badge&labelColor=0d1117)
 ![Localisation](https://img.shields.io/badge/📍-Tanger%2C_Maroc-8b949e?style=for-the-badge&labelColor=0d1117)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connecter-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soulaimane-benayad-33363a26b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
